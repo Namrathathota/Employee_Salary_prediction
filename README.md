@@ -105,7 +105,7 @@ Stratified Train/Test Split (80:20)
  AutoML: Integrate automated ML pipelines using PyCaret or H2O.ai.
 
 
-![8](https://github.com/user-attachments/assets/889b54df-8b77-47f2-b500-4b91ad023b16)
+![Uploading 8.jpg…]()
 
 **License**
 This project is for educational and internship purposes. All rights reserved by the author.
